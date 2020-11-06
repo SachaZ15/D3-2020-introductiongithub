@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Open+Sans:wght@300&display=swap');
+
+h1 {
+  font-family: 'Cinzel', serif;
+  color: white;
+  margin-top: 2em;
+  font-size: 3em;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
